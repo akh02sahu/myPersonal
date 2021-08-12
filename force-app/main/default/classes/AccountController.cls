@@ -16,5 +16,8 @@ public with sharing class AccountController {
     public integer div(Integer a,Integer b){
         return a/b;
     }
+    public integer display(Integer a,Integer b){
+        return a/b;
+    }
 
 }
