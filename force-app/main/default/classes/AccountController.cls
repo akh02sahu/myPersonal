@@ -10,4 +10,8 @@ public with sharing class AccountController {
         return a*b;
     }
 
+    public static Integer add(Integer a,Integer b){
+        return a+b;
+    }
+
 }
